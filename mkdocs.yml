@@ -49,3 +49,5 @@ markdown_extensions:
       clickable_checkbox: true
 
 
+extra_javascript:
+   - myscript.js
