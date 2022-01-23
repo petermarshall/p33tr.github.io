@@ -1,0 +1,51 @@
+site_name: P33tr
+site_description: P33tr notes
+site_author: Peter Marshall
+
+# nav:
+#   - 'index.md'
+#   - 'Project Standards': 'project-standards/README.md'
+#   - 'Technical Processes': 'technical-processes/README.md'
+#   - 'Technical Standards': 'technical-standards/README.md'
+#   - 'About': 'About/README.md'
+
+
+theme:
+  name: "material"
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - navigation.sections
+  logo: img/peterAvatar-removebg.png
+  favicon: img/peterAvatar-removebg.png
+
+  features:
+    - navigation.instant
+    - navigation.indexes
+
+
+  palette:
+    primary: white
+    accent: red
+  font:
+    text: Karla Regular
+
+repo_url: https://github.com/petermarshall/blog
+
+# hide the edit button
+edit_uri: ""
+
+
+plugins:
+  - mkdocs-video
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+
+
