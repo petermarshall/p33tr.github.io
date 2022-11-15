@@ -7,8 +7,8 @@
 
 Enterprise Application Developer with over 30 Years of experience as a contractor working on a wide variety of development projects. Working mostly in Public Utilities, Telecoms, Finance and Scientific Journal Publishing.
 
-**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF. Javascript, Angular, React, GraphQL, Azure
-
+**Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF, Javascript, Azure, Azure Devops,
+Azure CI /CD Pipelines.
 
 
 
