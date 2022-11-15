@@ -29,7 +29,7 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 
 * I was designing high level architecture solutions for clients, as well as jumping into other projects to provide technical support and developemnt expertise when required. 
 
-* During my time at 345.technology I passed the Azure Developer Associate certification.
+* During my time at 345.technology I passed the [Azure Developer Associate certification](https://learn.microsoft.com/en-us/users/p33tr/transcript/7ozggi3xg8q5qyo).
 
 
 #### Devops Manager / Scrum master / Senior Developer
