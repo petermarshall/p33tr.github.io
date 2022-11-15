@@ -23,11 +23,11 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 
 * [345.Technology](https://345.technology/) is a Microsoft Solutions Partner specialising in enterprise-grade applications and platforms for the cloud, where I worked on several projects for major clients including Ocado.
 
-* As a Senior consultant I was running projects from initialisation to completion, creating runnng and administering azure devops boards and processes covering the complete software development lifecycle. 
+* As a Senior consultant I was running projects from initialisation to completion, creating running and administering azure devops boards and processes covering the complete software development lifecycle. 
 
-* The projects required detailed in detph technical knowledge of azure services. During this time I worked on Functions, App Logic, APIM, App Services, Storage Account, Key Vault, Application Insights, Sql Server, Power Apps etc.
+* The projects required detailed in deph technical knowledge of azure services. During this time I worked on Functions, App Logic, APIM, App Services, Storage Account, Key Vault, Application Insights, Sql Server, Power Apps etc.
 
-* I was designing high level architecture solutions for clients, as well as jumping into other projects to provide technical support and devlopemnt expertise when required. 
+* I was designing high level architecture solutions for clients, as well as jumping into other projects to provide technical support and developemnt expertise when required. 
 
 * During my time at 345.technology I passed the Azure Developer Associate certification.
 
