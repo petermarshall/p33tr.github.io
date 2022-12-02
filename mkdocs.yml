@@ -30,7 +30,7 @@ theme:
   font:
     text: Karla Regular
 
-repo_url: https://github.com/p33tr/github.io
+# repo_url: https://github.com/p33tr/github.io
 
 # hide the edit button
 edit_uri: ""

@@ -9,6 +9,7 @@ categories: [links, personal, nearby.cafe]
 *   [LinkedIn](https://linkedin.com/in/thebestdevyouwilleverfind)
 *   [Stackoverflow](https://stackoverflow.com/users/4692/peter-marshall)
 *   [MS Certification](http://www.mycertprofile.com/Profile/9843288887)
+*   <a rel="me" href="https://toot.cat/@P33tr">Mastodon</a>
 
 # [Nearby.Cafe](http://nearby.cafe) #
 
@@ -20,4 +21,4 @@ Nearby.cafe is a site I use to learn technologies. It gets the users location, a
 * uses react as the frontend framework
 * uses asp.net and c# on the server side.
 <script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="P33tr" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a coffee!" data-color="#FF813F" data-position="right" data-x_margin="18" data-y_margin="18"></script>
-<a rel="me" href="https://toot.cat/@P33tr">Mastodon</a>
+
