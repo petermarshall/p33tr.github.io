@@ -37,7 +37,6 @@ edit_uri: ""
 
 
 plugins:
-  - mkdocs-video
   - search
 
 markdown_extensions:
