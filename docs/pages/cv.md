@@ -10,7 +10,7 @@ Enterprise Application Developer with over 30 Years of experience as a contracto
 **Most recent Skills:** ASP.NET MVC, C#, SQL Server, Postgresql, Web Services, Visual Studio, Agile, Scrum, REST, LINQ, TDD, BDD, EF, Javascript, Azure, Azure Devops,
 Azure CI /CD Pipelines.
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed74b600-338a-498f-818d-b5b43fceecae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # Recent Experience
 
