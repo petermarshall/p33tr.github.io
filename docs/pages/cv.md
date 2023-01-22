@@ -39,7 +39,7 @@ Azure CI /CD Pipelines.
 
 **Skills:** DOTNET CORE, ASP.NET MVC, WEB API, C#, JavaScript, Azure, Azure Devops, Micro services, MySql, Git, TDD, scrum, YAML, razor.
 
-* Developing an Anti Money Laundering Application, contributting to the all aspects of the project. Front end code in ASP.NET MVC, back end services in WEB API DOTNET CORE in C#. 
+* Developing an Anti Money Laundering Application, contributing to the all aspects of the project. Front end code in ASP.NET MVC, back end services in WEB API DOTNET CORE in C#. 
 
 * This is a small startup, and as the senior developer I am responsible for CD and CI pipelines in Azure Devops. Setting up and maintaining the boards and backlogs in Azure Devops.
 
