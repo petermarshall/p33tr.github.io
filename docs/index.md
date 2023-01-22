@@ -8,7 +8,10 @@ categories: [links, personal, nearby.cafe]
 *   [Twitter](https://twitter.com/petermarshall)
 *   [LinkedIn](https://linkedin.com/in/thebestdevyouwilleverfind)
 *   [Stackoverflow](https://stackoverflow.com/users/4692/peter-marshall)
-*   [MS Certification](http://www.mycertprofile.com/Profile/9843288887)
+*   Microsoft Certification
+*       [Transcript](https://learn.microsoft.com/en-us/users/p33tr/transcript/7ozggi3xg8q5qyo)
+*       [Credly](https://www.credly.com/badges/ed74b600-338a-498f-818d-b5b43fceecae)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed74b600-338a-498f-818d-b5b43fceecae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 *   <a rel="me" href="https://toot.cat/@P33tr">Mastodon</a>
 
 # [Nearby.Cafe](http://nearby.cafe) #
